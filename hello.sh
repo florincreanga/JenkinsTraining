@@ -1,1 +1,1 @@
-$date
+$date -u
