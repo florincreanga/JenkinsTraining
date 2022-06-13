@@ -1,1 +1,1 @@
-tss
+$date -u
