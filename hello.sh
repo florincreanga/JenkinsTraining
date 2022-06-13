@@ -1,1 +1,4 @@
-$date -u
+$date
+cal
+free -h
+whoami
